@@ -1,0 +1,1 @@
+export const ASCII_ZERO = 0x30;
